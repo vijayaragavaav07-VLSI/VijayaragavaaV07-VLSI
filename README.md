@@ -27,7 +27,7 @@ I enjoy turning ideas into working systems — from **RTL designs and digital lo
 
 ### 💻 Programming
 
-`C` `C++` `Java'
+`C` `C++` `Java`
 
 ### 🔧 VLSI & Hardware
 
