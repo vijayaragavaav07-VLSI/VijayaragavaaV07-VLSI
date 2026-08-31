@@ -105,9 +105,7 @@ I'm currently building my foundation toward careers in:
 ```text
 Digital Electronics
         ↓
-Verilog HDL
-        ↓
-RTL Design
+RTL Design through Verilog HDL
         ↓
 SystemVerilog
         ↓
@@ -129,7 +127,7 @@ ESP32
    ↓
 IoT
    ↓
-Cloud / Firebase
+Cloud / Firebase /Supabase
    ↓
 Real-Time Applications
 ```
