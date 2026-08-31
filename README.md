@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vijayaragavaa V
 
-### 🚀 VLSI Design & Technology Student | Embedded & IoT Developer | AI Enthusiast
+### 🚀 VLSI Design & Technology Student | Aspiring RTL design & Verification engineer | AI Enthusiast
 
 I'm an undergraduate student pursuing **B.E. in VLSI Design & Technology**, passionate about building solutions at the intersection of **VLSI, Embedded Systems, IoT, AI, and Real-Time Applications**.
 
@@ -27,7 +27,7 @@ I enjoy turning ideas into working systems — from **RTL designs and digital lo
 
 ### 💻 Programming
 
-`C` `C++` `Java`
+`C++` `Java`
 
 ### 🔧 VLSI & Hardware
 
@@ -39,7 +39,7 @@ I enjoy turning ideas into working systems — from **RTL designs and digital lo
 
 ### ☁️ Backend & Cloud
 
-`Firebase` `Realtime Database` `REST APIs`
+`Firebase` `Realtime Database` `Supabase`
 
 ### 🌐 Web Development
 
@@ -85,7 +85,6 @@ I'm currently building my foundation toward careers in:
 * ESP32
 * IoT Architecture
 * Python
-* AI/ML fundamentals
 * Git & GitHub
 
 ---
